@@ -33,6 +33,20 @@ To run this project, you need to have a web browser and a code editor installed 
     ```sh
     open index.html
     ```
+## Project Structure
+```bash
+quiz-app/
+│
+├── css/
+│ └── styles.css
+│
+├── js/
+│ └── script.js
+│
+├── index.html
+├── README.md
+└── .gitignore
+```
 
 ## Usage
 
