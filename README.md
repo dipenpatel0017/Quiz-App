@@ -23,7 +23,7 @@ To run this project, you need to have a web browser and a code editor installed 
 
 1. Clone the repository
     ```sh
-    git clone https://github.com/dipenpatel0001/Quiz-App.git
+    git clone https://github.com/dipenpatel0017/Quiz-App.git
     ```
 2. Navigate to the project directory
     ```sh
@@ -33,6 +33,31 @@ To run this project, you need to have a web browser and a code editor installed 
     ```sh
     open index.html
     ```
+
+## Usage
+
+1. Open the `index.html` file in a web browser.
+2. Start the quiz by clicking the "Start Quiz" button.
+3. Select your answers and navigate through the questions.
+4. Submit the quiz to see your score and correct answers.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+1. Fork the Project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a pull request
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+
+Project Link: [https://github.com/dipenpatel0017/Quiz-App](https://github.com/dipenpatel0017/Quiz-App)
 
 ## Screenshots
 
